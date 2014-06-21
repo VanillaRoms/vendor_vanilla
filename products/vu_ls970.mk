@@ -1,5 +1,5 @@
 # Inherit AOSP device configuration for ls970
-$(call inherit-product, device/lge/ls970/full_ls970.mk)
+$(call inherit-product, device/lge/ls970-common/full_ls970.mk)
 
 # Inherit Vanilla Unicorn common bits
 $(call inherit-product, vendor/vanilla/configs/common.mk)

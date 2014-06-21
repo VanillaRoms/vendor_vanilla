@@ -48,7 +48,7 @@ LOCAL_CERTIFICATE := PRESIGNED
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := UIprov
+LOCAL_MODULE := vanillachocodarkvu.themecmeleven.blackbearblanc
 LOCAL_MODULE_OWNER := aokp
 LOCAL_SRC_FILES := common/app/$(LOCAL_MODULE).apk
 LOCAL_MODULE_TAGS := optional

@@ -10,7 +10,7 @@ PRODUCT_PACKAGES += \
     BluetoothExt \
     CellBroadcastReceiver \
     libemoji \
-    UIprov \
+    vanillachocodarkvu.themecmeleven.blackbearblanc \
     LatinImeDictionaryPack \
     ROMControl \
     Stk \

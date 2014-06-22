@@ -1,5 +1,5 @@
 # Inherit from those products. Most specific first.
-$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
+$(call inherit-product, device/motorola/falcon/full_falcon.mk)
 # Inherit from xt1034 device
 $(call inherit-product, device/motorola/falcon/device_falcon.mk)
 

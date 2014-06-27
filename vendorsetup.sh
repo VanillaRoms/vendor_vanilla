@@ -1,4 +1,4 @@
-add_lunch_combo vu_d2usc-userdebug
+add_lunch_combo vu_d2lte-userdebug
 add_lunch_combo vu_d801-userdebug
 add_lunch_combo vu_d800-userdebug
 add_lunch_combo vu_d802-userdebug

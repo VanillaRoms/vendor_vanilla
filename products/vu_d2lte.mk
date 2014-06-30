@@ -1,7 +1,7 @@
 $(call inherit-product, device/samsung/d2lte/full_d2lte.mk)
 
 # Inherit some common stuff.
-$(call inherit-product, vendor/vanilla/configs/gsm.mk)
+ $(call inherit-product, vendor/vanilla/configs/cdma.mk)
 
 # Inherit common product files.
 $(call inherit-product, vendor/vanilla/configs/common.mk)

@@ -13,4 +13,6 @@ add_lunch_combo vu_maguro-userdebug
 add_lunch_combo vu_m7-userdebug
 add_lunch_combo vu_honami-userdebug
 add_lunch_combo vu_yuga-userdebug
+add_lunch_combo vu_hlte-userdebug
+
 

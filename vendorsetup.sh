@@ -4,6 +4,7 @@ add_lunch_combo vu_d800-userdebug
 add_lunch_combo vu_d802-userdebug
 add_lunch_combo vu_deb-userdebug
 add_lunch_combo vu_dlx-eng
+add_lunch_combo vu_falcon-userdebug
 add_lunch_combo vu_flo-userdebug
 add_lunch_combo vu_hammerhead-userdebug
 add_lunch_combo vu_ls970-userdebug
